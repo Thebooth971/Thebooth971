@@ -33,11 +33,10 @@
 
 ---
 
-<h2 align="center" style="color:#00f2ff; text-shadow: 0 0 10px rgba(0,242,255,0.6);">Estadísticas</h2>
+<h2 align="center" style="color:#00f2ff; text-shadow: 0 0 10px rgba(0,242,255,0.6);">Tecnologías</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thebooth971&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00f2ff&text_color=e2e8f0&icon_color=bc13fe" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thebooth971&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00f2ff&text_color=e2e8f0" alt="Top languages" height="150" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,postgres,docker,githubactions,nginx,linux,aws,git,vscode&perline=12&theme=dark" alt="Skill Icons" /></a>
 </p>
 
 <p align="center">
