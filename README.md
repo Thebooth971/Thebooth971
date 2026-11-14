@@ -36,20 +36,24 @@
 <h2 align="center" style="color:#00f2ff; text-shadow: 0 0 10px rgba(0,242,255,0.6);">Estadísticas</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api?username=Thebooth971&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617,0f172a&title_color=00f2ff&text_color=e2e8f0&icon_color=bc13fe&cache_seconds=3600" />
-    <source media="(prefers-color-scheme: light)" src="https://github-readme-stats.vercel.app/api?username=Thebooth971&show_icons=true&theme=default&hide_border=true&bg_color=ffffff,f8fafc&title_color=0ea5e9&text_color=0f172a&icon_color=bc13fe&cache_seconds=3600" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Thebooth971&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617,0f172a&title_color=00f2ff&text_color=e2e8f0&icon_color=bc13fe&cache_seconds=3600" alt="GitHub stats" height="150" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thebooth971&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617,0f172a&title_color=00f2ff&text_color=e2e8f0&cache_seconds=3600" />
-    <source media="(prefers-color-scheme: light)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thebooth971&layout=compact&theme=default&hide_border=true&bg_color=ffffff,f8fafc&title_color=0ea5e9&text_color=0f172a&cache_seconds=3600" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thebooth971&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617,0f172a&title_color=00f2ff&text_color=e2e8f0&cache_seconds=3600" alt="Top languages" height="150" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thebooth971&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00f2ff&text_color=e2e8f0&icon_color=bc13fe" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thebooth971&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00f2ff&text_color=e2e8f0" alt="Top languages" height="150" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?user=Thebooth971" alt="Snake animation" />
+</p>
+
+---
+
+<h2 align="center" style="color:#00f2ff; text-shadow: 0 0 10px rgba(0,242,255,0.6);">Proyecto destacado</h2>
+
+<p align="center">
+  <a href="https://github.com/Thebooth971/HandRolls-Majorista">
+    <img src="https://img.shields.io/badge/HandRolls--Majorista-E-commerce+Mayorista-00f2ff?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <br/>
+  <span style="color:#e2e8f0;">Plataforma de e-commerce mayorista con API, web, panel de administración y despliegue.</span>
 </p>
 
 ---
